@@ -1,5 +1,6 @@
 body{
-    text-align: center;
+    text-align:justify;
+    
     background-color: #E1C603;
 
 }
@@ -16,7 +17,7 @@ quando utilizamos width : 100% deixamos a imagem escolhida com 100% de largura d
 }
 
 h1{
-  height: 150px;
+  height: 100px;
   <!---
 define a altura do título principal
 --->
