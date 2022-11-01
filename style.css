@@ -6,13 +6,20 @@ body{
 }
 #PASSAT
 {
+  width: 2,5cm;
 }
 
 
-{
-    width: 100%;
+  #MOTOR
+  {
+    width: 2,5cm;
+  }
 
-}
+  
+  #F250
+  {
+     width:2,5cm;
+  }
 
 h1{
   height: 100px;
